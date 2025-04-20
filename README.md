@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayele Girum</h1>
 <h3 align="center">I'M passionate in python from Ethiopia</h3>
 
+<p><img align="left" src="https://t3.ftcdn.net/jpg/07/02/27/58/360_F_702275846_0M60p4g7EiF4OmmBMTdc8qYUkiJaHxAf.jpg" alt="ayelegirum21" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayelegirum21&label=Profile%20views&color=0e75b6&style=flat" alt="ayelegirum21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayelegirum21" alt="ayelegirum21" /></a> </p>
